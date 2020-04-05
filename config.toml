@@ -1,4 +1,4 @@
-baseURL = "https://mdqv.cl"
+baseURL = "https://mdqv.cl/"
 languageCode = "es-ES"
 title = "mdqv"
 theme = "ezhil"
