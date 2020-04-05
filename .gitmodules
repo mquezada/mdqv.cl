@@ -1,1 +1,4 @@
 
+[submodule "themes/ezhil"]
+	path = themes/ezhil
+	url = https://github.com/mquezada/ezhil
